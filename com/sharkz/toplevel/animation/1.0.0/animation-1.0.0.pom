@@ -3,21 +3,22 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sharkz.toplevel</groupId>
-  <artifactId>okgo</artifactId>
+  <artifactId>animation</artifactId>
   <version>1.0.0</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.squareup.okhttp3</groupId>
-      <artifactId>okhttp</artifactId>
-      <version>3.12.1</version>
+      <groupId>com.daimajia.easing</groupId>
+      <artifactId>library</artifactId>
+      <version>2.0</version>
+      <type>aar</type>
       <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.code.gson</groupId>
-      <artifactId>gson</artifactId>
-      <version>2.8.6</version>
-      <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>androidx.appcompat</groupId>
