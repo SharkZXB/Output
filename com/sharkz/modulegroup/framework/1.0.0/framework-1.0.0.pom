@@ -8,20 +8,104 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.sharkz.modulegroup</groupId>
-      <artifactId>dependence</artifactId>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>applauncher</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.sharkz.toplevel</groupId>
-      <artifactId>toolkit</artifactId>
+      <artifactId>appstatus</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>arouter</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>coolview</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>dialog</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>easythread</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.sharkz.toplevel</groupId>
       <artifactId>eventbus</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>glide</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>immersionbar</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>notification</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>okgo</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>section</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>service</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>smallestwidth</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>smartrefreshlayout</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>swipebacklayout</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.sharkz.toplevel</groupId>
+      <artifactId>toolkit</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
