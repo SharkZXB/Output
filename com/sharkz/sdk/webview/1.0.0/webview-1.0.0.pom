@@ -33,7 +33,7 @@
     </dependency>
     <dependency>
       <groupId>com.sharkz.sdk</groupId>
-      <artifactId>toolkit</artifactId>
+      <artifactId>monitor</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>

@@ -69,7 +69,7 @@
     </dependency>
     <dependency>
       <groupId>com.sharkz.sdk</groupId>
-      <artifactId>section</artifactId>
+      <artifactId>recyclerview</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>

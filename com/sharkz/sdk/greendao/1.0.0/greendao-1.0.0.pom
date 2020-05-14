@@ -8,9 +8,9 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>net.zetetic</groupId>
-      <artifactId>android-database-sqlcipher</artifactId>
-      <version>3.5.9</version>
+      <groupId>org.greenrobot</groupId>
+      <artifactId>greendao</artifactId>
+      <version>3.2.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -20,15 +20,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>androidx.constraintlayout</groupId>
-      <artifactId>constraintlayout</artifactId>
-      <version>1.1.3</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.greenrobot</groupId>
-      <artifactId>greendao</artifactId>
-      <version>3.2.2</version>
+      <groupId>net.zetetic</groupId>
+      <artifactId>android-database-sqlcipher</artifactId>
+      <version>3.5.9</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
